@@ -319,19 +319,19 @@
                             <th scope="col" class="text-center"> </th>
                             <th scope="col" class="text-center">Total Harga: </th>
                             <th scope="col" class="text-center"> </th>
-                            <th scope="col" class="text-center">@currency($h1*$m1)</th>
-                            <th scope="col" class="text-center">@currency($h2*$m2)</th>
-                            <th scope="col" class="text-center">@currency($h3*$m3)</th>
-                            <th scope="col" class="text-center">@currency($h4*$m4)</th>
-                            <th scope="col" class="text-center">@currency($h5*$m5)</th>
-                            <th scope="col" class="text-center">@currency($h6*$m6)</th>
-                            <th scope="col" class="text-center">@currency($h7*$m7)</th>
-                            <th scope="col" class="text-center">@currency($h8*$m8)</th>
-                            <th scope="col" class="text-center">@currency($h9*$m9)</th>
-                            <th scope="col" class="text-center">@currency($h10*$m10)</th>
-                            <th scope="col" class="text-center">@currency($h11*$m11)</th>
-                            <th scope="col" class="text-center">@currency($h12*$m12)</th>
-                            <th scope="col" class="text-center">@currency($h13*$m13)</th>
+                            <th scope="col" class="text-center">({{ $m1 }}) @currency($h1*$m1)</th>
+                            <th scope="col" class="text-center">({{ $m2 }}) @currency($h2*$m2)</th>
+                            <th scope="col" class="text-center">({{ $m3 }}) @currency($h3*$m3)</th>
+                            <th scope="col" class="text-center">({{ $m4 }}) @currency($h4*$m4)</th>
+                            <th scope="col" class="text-center">({{ $m5 }}) @currency($h5*$m5)</th>
+                            <th scope="col" class="text-center">({{ $m6 }}) @currency($h6*$m6)</th>
+                            <th scope="col" class="text-center">({{ $m7 }}) @currency($h7*$m7)</th>
+                            <th scope="col" class="text-center">({{ $m8 }}) @currency($h8*$m8)</th>
+                            <th scope="col" class="text-center">({{ $m9 }}) @currency($h9*$m9)</th>
+                            <th scope="col" class="text-center">({{ $m10 }}) @currency($h10*$m10)</th>
+                            <th scope="col" class="text-center">({{ $m11 }}) @currency($h11*$m11)</th>
+                            <th scope="col" class="text-center">({{ $m12 }}) @currency($h12*$m12)</th>
+                            <th scope="col" class="text-center">({{ $m13 }}) @currency($h13*$m13)</th>
                             <th scope="col" class="text-center"></th>
                         </tr>
                     </tfoot>
